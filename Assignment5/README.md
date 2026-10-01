@@ -12,9 +12,28 @@ The test cases I used within this project are included in this repository, label
 
 SCREENSHOTS: Test Case 1
 -----------------------------------------------------------------------------------------------------------------------------------
+<img width="1017" height="398" alt="image" src="https://github.com/user-attachments/assets/b6875828-72d7-4f0f-97b7-e9a62170f54d" />
 
-SCREENSHOTS: Teat Case 2
+This is my FCFS algorithm output for test case 1
+
+<img width="1024" height="393" alt="image" src="https://github.com/user-attachments/assets/73412a17-3d85-42ac-aea1-2b7f38e0c828" />
+
+This is my SJF algorithm output for test case 1
+
+<img width="1006" height="483" alt="image" src="https://github.com/user-attachments/assets/549980ed-e713-4e9e-97ce-8ef10018b825" />
+
+This is my RR algorithm output for test case 1
+
+SCREENSHOTS: Test Case 2
 -----------------------------------------------------------------------------------------------------------------------------------
+<img width="1057" height="317" alt="image" src="https://github.com/user-attachments/assets/77049cf5-8878-4357-8b41-18d8c750edb4" />
+
+This is my FCFS algorithm output for test case 2
+
+<img width="1020" height="305" alt="image" src="https://github.com/user-attachments/assets/85e7a059-9d2a-4ec4-8021-e4f869c09465" />
+
+This is my SJF algorithm output for test case 2
+
 <img width="981" height="356" alt="image" src="https://github.com/user-attachments/assets/e688d7fb-3e0b-4332-a491-6350fa886402" />
 
 Thisis my RR algorithm output for test case 2
